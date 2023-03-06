@@ -1,0 +1,1 @@
+Hi..This is lab2 file under devops_lab2 directory.

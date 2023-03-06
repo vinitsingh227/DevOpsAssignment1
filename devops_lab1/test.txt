@@ -1,0 +1,2 @@
+Hi this is new text file created to learn git commands. 
+Happy learning!!!
